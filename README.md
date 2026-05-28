@@ -23,12 +23,12 @@ Heute habe ich mit dem Layout für meine Startseite begonnen. Ich habe mir meine
 
 ## 29.5.
 
-- [ ] Den alten code analysieren und alles was nicht mehr gebraucht wird rauslöschen
-- [ ] Das Layout auf rudimentäre Weise mit HTML und CSS umsetzen
-- [ ] Projekte die ich verlinken möchte heraussuchen und verlinken
+- [x] Den alten code analysieren und alles was nicht mehr gebraucht wird rauslöschen
+- [x] Das Layout auf rudimentäre Weise mit HTML und CSS umsetzen
+- [x] Projekte die ich verlinken möchte heraussuchen und verlinken
 - [ ] Die Position verschieben Funktion der Projekte implementieren (wie im Foto beschreiben)
 
-☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Heute habe ich zuerst meinen Code nochmal durchgeschaut. Ich bemerkte dass ich eigentlich nichts vom alten Code brauchte ausser den Text, also habe ich von neuem begonnen und den Text gespeichert. Danach habe ich langsam begonnen das HTML und CSS zu schreiben, dass es so aussieht wie ich es mir vorgestellt hatte. Zuletzt habe ich mir noch meine 3 besten Projekte rausgesucht und sie auf der Seite verlinkt. Momentan ist noch vieles mit Platzhalter aufgefüllt weil ich die ganz am Ende machen werde. Für die Animation hat es auch nocht nicht gereicht. 
 
 ## 5.6.
 
