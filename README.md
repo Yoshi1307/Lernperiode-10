@@ -32,9 +32,9 @@ Heute habe ich zuerst meinen Code nochmal durchgeschaut. Ich bemerkte dass ich e
 
 ## 5.6.
 
-- [ ] LinkedIn-Profil erstellen / ausputzen
-- [ ] GitHub-Profil professionalisieren (`readme.md`)
+- [x] LinkedIn-Profil erstellen / ausputzen
+- [x] GitHub-Profil professionalisieren (`readme.md`)
 - [ ] Start-Seite abschliessen
-- [ ] Rückmeldung geben
+- [x] Rückmeldung geben
 
-☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Von den Rückmeldungen habe ich mitgenommen, dass ich mein GitHub Profil noch weiter anpassen muss. Wichtige Sachen wie die Programmiersprachen sind nicht ersichtlich und es ist generell zu wenig. Ausserdem soll mein Bewerbungsschreiben nochmal überarbeitet werden.
