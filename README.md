@@ -38,3 +38,11 @@ Heute habe ich zuerst meinen Code nochmal durchgeschaut. Ich bemerkte dass ich e
 - [x] Rückmeldung geben
 
 Von den Rückmeldungen habe ich mitgenommen, dass ich mein GitHub Profil noch weiter anpassen muss. Wichtige Sachen wie die Programmiersprachen sind nicht ersichtlich und es ist generell zu wenig. Ausserdem soll mein Bewerbungsschreiben nochmal überarbeitet werden.
+
+## 12.6
+
+Heute habe ich etwas an meiner Webseite weitergearbeitet. Ich habe den Code etwas verbessert und den .js Teil in eine eigene Datei ausgelagert.
+
+## 19.6
+- [ ] Webseite abschliessen
+- [ ] Robocode Roboter programmieren
