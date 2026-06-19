@@ -44,5 +44,7 @@ Von den Rückmeldungen habe ich mitgenommen, dass ich mein GitHub Profil noch we
 Heute habe ich etwas an meiner Webseite weitergearbeitet. Ich habe den Code etwas verbessert und den .js Teil in eine eigene Datei ausgelagert.
 
 ## 19.6
-- [ ] Webseite abschliessen
+- [x] Webseite abschliessen
 - [ ] Robocode Roboter programmieren
+
+Heute habe ich meine persönliche Webseite abgeschlossen. Zuerst musste ich alle Projekte verlinken und passende Bilder finden für die Vorschau. Anschliessend habe ich die ganzen Texte geschrieben die auf der Seite zu finden sind. Leider habe ich sehr viel Zeit mit dem verlinken meines LinkedIn Accounts verbraucht, weil ich nicht mehr auf den Account zugreifen konnte. Zum Schluss habe ich nochmals die kleinsten Details überarbeitet. Zum Schluss habe ich noch mit einem Roboter begonnen, aber die Zeit hat nicht mehr genug gereicht. Die Webseite ist im dazugehörigen Repository zu finden.
